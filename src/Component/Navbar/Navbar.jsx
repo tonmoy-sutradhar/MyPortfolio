@@ -71,7 +71,13 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Resume</a>
+        <a
+          href="https://github.com/tonmoy-sutradhar"
+          target="blank"
+          className="btn bg-lime-400"
+        >
+          Learn More
+        </a>
       </div>
     </div>
   );
